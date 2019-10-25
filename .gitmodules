@@ -1,3 +1,6 @@
 [submodule "docs/web"]
 	path = docs/web
 	url = git://github.com/namjals/submodule_common.git
+[submodule "docs2/web"]
+	path = docs2/web
+	url = https://github.com/namjals/submodule_common
